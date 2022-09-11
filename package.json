@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Soft to plan track and log work for goverment archive enterprise",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -22,5 +23,12 @@
   "bugs": {
     "url": "https://github.com/DenisYagov/G_archive/issues"
   },
-  "homepage": "https://github.com/DenisYagov/G_archive#readme"
+  "homepage": "https://github.com/DenisYagov/G_archive#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  },
+  "devDependencies": {
+    "eslint": "^8.23.0",
+    "eslint-plugin-import": "^2.26.0"
+  }
 }
