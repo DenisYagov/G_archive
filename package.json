@@ -1,0 +1,26 @@
+{
+  "name": "g_archive",
+  "version": "1.0.0",
+  "description": "Soft to plan track and log work for goverment archive enterprise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DenisYagov/G_archive.git"
+  },
+  "keywords": [
+    "database",
+    "history",
+    "documets",
+    "restavration",
+    "scanning"
+  ],
+  "author": "Denis Yagov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DenisYagov/G_archive/issues"
+  },
+  "homepage": "https://github.com/DenisYagov/G_archive#readme"
+}
